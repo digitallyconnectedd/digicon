@@ -310,12 +310,11 @@ select {
   width: 36px;
   height: 36px;
   object-fit: contain;
+  border-radius: var(--radius-sm);
+  background: #fff;
+  padding: 2px;
+  border: 1px solid var(--clr-border);
   flex-shrink: 0;
-  transition: transform var(--transition-base);
-}
-
-.nav-logo:hover .logo-img {
-  transform: scale(1.05);
 }
 
 .logo-text .accent {
@@ -1118,10 +1117,9 @@ select {
 }
 
 .footer-brand .logo-img {
-  width: 44px;
-  height: 44px;
-  background: transparent;
-  border: none;
+  width: 40px;
+  height: 40px;
+  border-color: rgba(255, 255, 255, 0.15);
 }
 
 .footer-brand .logo-text .accent {
