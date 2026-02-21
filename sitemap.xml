@@ -28,6 +28,30 @@
     <priority>0.9</priority>
   </url>
 
+  <!-- Work/Portfolio Page -->
+  <url>
+    <loc>https://digicon.com.lk/work.html</loc>
+    <lastmod>2026-02-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Blog Page -->
+  <url>
+    <loc>https://digicon.com.lk/blog.html</loc>
+    <lastmod>2026-02-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Careers Page -->
+  <url>
+    <loc>https://digicon.com.lk/careers.html</loc>
+    <lastmod>2026-02-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
   <!-- Contact Page -->
   <url>
     <loc>https://digicon.com.lk/contact.html</loc>
