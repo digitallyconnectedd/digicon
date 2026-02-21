@@ -1,0 +1,18 @@
+# robots.txt for https://digicon.com.lk/
+# Optimized for SEO and crawlability
+
+User-agent: *
+Allow: /
+Allow: /css/
+Allow: /js/
+Allow: /img/
+
+# Disallow admin or sensitive directories (if any in future)
+# Disallow: /admin/
+# Disallow: /private/
+
+# Sitemap location
+Sitemap: https://digicon.com.lk/sitemap.xml
+
+# Crawl-delay (optional, only if needed)
+# Crawl-delay: 1
